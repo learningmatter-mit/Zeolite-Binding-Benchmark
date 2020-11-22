@@ -1,17 +1,17 @@
-# Reproducibility of host-guest interactions in zeolites from density functional theory and force field approaches
+# Accuracy and reproducibility of host-guest interactions in zeolites
 
 This repository contains the data from the following paper:
 
-D. Schwalbe-Koda and R. Gómez-Bombarelli. "Reproducibility of host-guest interactions in zeolites from density functional theory and force field approaches". (2020)
+D. Schwalbe-Koda and R. Gómez-Bombarelli. "Accuracy and reproducibility of host-guest interactions in zeolites". [ChemRxiv.13270184](https://doi.org/10.26434/chemrxiv.13270184) (2020).
 
 BibTeX format:
 ```
 @article{,
-    title={Reproducibility of host-guest interactions in zeolites from density functional theory and force field approaches},
+    title={Accuracy and reproducibility of host-guest interactions in zeolites},
     author={Schwalbe-Koda, Daniel and Gómez-Bombarelli, Rafael},
-    journal={},
+    journal={ChemRxiv.13270184},
     year={2020},
-    doi={}
+    doi={10.26434/chemrxiv.13270184}
 }
 ```
 
