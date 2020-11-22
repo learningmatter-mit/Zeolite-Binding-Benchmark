@@ -19,7 +19,7 @@ BibTeX format:
 
 This repository contains:
 
-* [Data](data/) summarizing the calculations performed for the article.
+* [Data](data/) summarizing the calculations performed for the article and storing all the crystal structures from each one of them.
 * [Plots](plots.ipynb) that reproduce the figures in the article.
 
 ## Requirements
