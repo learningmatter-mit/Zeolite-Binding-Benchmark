@@ -1,13 +1,13 @@
-# Accuracy and reproducibility of host-guest interactions in zeolites
+# Benchmarking binding energy calculations for organic structure-directing agents in pure-silica zeolites
 
 This repository contains the data from the following paper:
 
-D. Schwalbe-Koda and R. Gómez-Bombarelli. "Accuracy and reproducibility of host-guest interactions in zeolites". [ChemRxiv.13270184](https://doi.org/10.26434/chemrxiv.13270184) (2020).
+D. Schwalbe-Koda and R. Gómez-Bombarelli. "Benchmarking binding energy calculations for organic structure-directing agents in pure-silica zeolites". [ChemRxiv.13270184](https://doi.org/10.26434/chemrxiv.13270184) (2020).
 
 BibTeX format:
 ```
 @article{,
-    title={Accuracy and reproducibility of host-guest interactions in zeolites},
+    title={Benchmarking binding energy calculations for organic structure-directing agents in pure-silica zeolites},
     author={Schwalbe-Koda, Daniel and Gómez-Bombarelli, Rafael},
     journal={ChemRxiv.13270184},
     year={2020},
