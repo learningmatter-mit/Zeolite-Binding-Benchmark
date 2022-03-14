@@ -2,16 +2,19 @@
 
 This repository contains the data from the following paper:
 
-D. Schwalbe-Koda and R. Gómez-Bombarelli. "Benchmarking binding energy calculations for organic structure-directing agents in pure-silica zeolites". [ChemRxiv.13270184](https://doi.org/10.26434/chemrxiv.13270184) (2020).
+D. Schwalbe-Koda and R. Gómez-Bombarelli. "Benchmarking binding energy calculations for organic structure-directing agents in pure-silica zeolites". J. Chem. Phys. **154**, 174109 (2021). [DOI](https://doi.org/10.1063/5.0044927).
 
 BibTeX format:
 ```
-@article{,
-    title={Benchmarking binding energy calculations for organic structure-directing agents in pure-silica zeolites},
-    author={Schwalbe-Koda, Daniel and Gómez-Bombarelli, Rafael},
-    journal={ChemRxiv.13270184},
-    year={2020},
-    doi={10.26434/chemrxiv.13270184}
+@article{schwalbe2021benchmarking,
+  title={Benchmarking binding energy calculations for organic structure-directing agents in pure-silica zeolites},
+  author={Schwalbe-Koda, Daniel and G{\'o}mez-Bombarelli, Rafael},
+  journal={The Journal of Chemical Physics},
+  volume={154},
+  number={17},
+  pages={174109},
+  year={2021},
+  publisher={AIP Publishing LLC}
 }
 ```
 
